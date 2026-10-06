@@ -12,8 +12,15 @@ __pycache__/
 # Product Requirements Documents
 **/PRD_pipeline.md
 
+# Dataset files (can be large)
+**/dataset/*.pdf
+**/dataset/*.docx
+**/dataset/*.pptx
+**/dataset/*.html
+
 # Output files (can be large)
 output/
+**/output/
 
 # IDE & Editor
 .vscode/
